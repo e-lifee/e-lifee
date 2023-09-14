@@ -1,3 +1,6 @@
+<p align='center'>
+  <img src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" alt="Masterhead" width="400" height="400" />
+</p>
 <h1 align="center">Hi 👋, I'm Elife</h1>
 <h3 align="center">A passionate software developer from Turkiye</h3>
 
