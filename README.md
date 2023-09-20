@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Elife</h1>
 <h3 align="center">A passionate software developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/e-lifee](https://github.com/e-lifee)
 
