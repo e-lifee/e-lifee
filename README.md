@@ -24,7 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-lifee&show_icons=true&locale=en" alt="e-lifee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-lifee&" alt="e-lifee" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-lifee&" alt="e-lifee" /></p>-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=e-lifee)](https://git.io/streak-stats)
 
 
 ![snake gif](https://github.com/e-lifee/e-lifee/blob/output/github-contribution-grid-snake.gif)
